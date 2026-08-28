@@ -1,0 +1,20 @@
+[submodule "VibeBase"]
+	path = VibeBase
+	url = https://github.com/PeakCode-AI/VibeBase.git
+	branch = main
+[submodule "VibeAdmin"]
+	path = VibeAdmin
+	url = https://github.com/PeakCode-AI/VibeAdmin.git
+	branch = main
+[submodule "VibePay"]
+	path = VibePay
+	url = https://github.com/PeakCode-AI/VibePay.git
+	branch = main
+[submodule "VibeApp"]
+	path = VibeApp
+	url = https://github.com/PeakCode-AI/VibeApp.git
+	branch = main
+[submodule "Vibe-Mp-H5"]
+	path = Vibe-Mp-H5
+	url = https://github.com/PeakCode-AI/Vibe-Mp-H5.git
+	branch = main
