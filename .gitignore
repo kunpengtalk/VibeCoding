@@ -74,3 +74,6 @@ temp/
 dump.rdb
 login.yaml
 .zcode/
+
+# VitePress 构建缓存
+vibe-docs/.vitepress/cache/
